@@ -4,3 +4,5 @@ This project is a part of The Odin Project - Landing Page. A customizable Landin
 ## Skills Used:
 1. HTML
 2. CSS (layout using flexbox)
+
+**Click [here](https://naseela99.github.io/Landing-Page/) to view the webpage**
